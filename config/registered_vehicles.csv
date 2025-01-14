@@ -1,0 +1,5 @@
+plate_number,rfid,balance,vehicle_type example
+
+ABC123,RFID123,100.0,car
+XYZ789,RFID456,200.0,truck
+LMN456,RFID789,150.0,bus

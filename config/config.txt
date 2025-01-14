@@ -1,0 +1,12 @@
+#example
+# Toll Rates
+
+toll_rate_car=50.0
+toll_rate_truck=100.0
+toll_rate_bus=75.0
+
+# Camera Settings 
+
+camera_resolution_width=1920
+camera_resolution_height=1080
+camera_fps=30
