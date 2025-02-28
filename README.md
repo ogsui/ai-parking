@@ -121,7 +121,7 @@ XYZ789,RF7654321,250.0,truck
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project currently has no license. All rights reserved.
 
 ## Acknowledgments
 
