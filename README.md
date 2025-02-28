@@ -41,7 +41,7 @@ brew install opencv tesseract leptonica
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-toll-system.git
+git clone https://github.com/ogsui/ai-toll-system.git
 cd ai-toll-system
 ```
 
